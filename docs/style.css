@@ -43,10 +43,6 @@ body {
     font-size: 24px;
 }
 
-.contact:hover {
-    opacity: 0.7;
-}
-
 a {
     text-decoration: none;
     font-size: 22px;
@@ -54,10 +50,25 @@ a {
 }
 
 .direct {
-    color: #54B435;
     font-size: 32px;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    color: white;
+    background-color: #54B435;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
 }
 
 .myket {
-    color: #0091EA;
     font-size: 32px;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    color: white;
+    background-color: #0091EA;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
