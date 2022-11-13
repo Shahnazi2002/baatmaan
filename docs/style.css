@@ -14,7 +14,9 @@
   }
 
 body {
-    background: white;
+    background: #0f0c29;
+    background: -webkit-linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
   }
 
   div {
@@ -52,7 +54,6 @@ body {
     color: black;
     background-color: #BCAAA4;
     text-align: center;
-    cursor: pointer;
     width: 100%;
     font-size: 24px;
 }
