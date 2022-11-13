@@ -43,13 +43,6 @@ body {
     font-size: 24px;
 }
 
-.direct {
-    color: #54B435;
-}
-
-.myket {
-    color: #0091EA;
-
 .contact:hover {
     opacity: 0.7;
 }
@@ -59,3 +52,12 @@ a {
     font-size: 22px;
     color: black;
 }
+
+.direct {
+    color: #54B435;
+    font-size: 32px;
+}
+
+.myket {
+    color: #0091EA;
+    font-size: 32px;
