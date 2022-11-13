@@ -34,6 +34,18 @@ body {
     font-size: 24px;
 }
 
+.version {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    color: black;
+    background-color: #BCAAA4;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 24px;
+}
+
 .contact:hover {
     opacity: 0.7;
 }
