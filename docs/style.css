@@ -9,7 +9,9 @@
 }
 
 body {
-    background: #795548;
+    background: #dad299;
+    background: -webkit-linear-gradient(to right, #dad299, #b0dab9);
+    background: linear-gradient(to right, #dad299, #b0dab9);
     font-family: vazir;
     direction: rtl;
   }
