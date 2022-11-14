@@ -54,15 +54,3 @@ body {
     cursor: pointer;
     width: 100%;
 }
-
-.myket {
-    font-size: 32px;
-    border: none;
-    outline: 0;
-    display: inline-block;
-    color: white;
-    background-color: #0091EA;
-    text-align: center;
-    cursor: pointer;
-    width: 100%;
-}
